@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/PycharmProjects/mlflow/mlops_comp/mlops_exp/219954780917631341/ccd5356eb6124b628d447a7c1c6c2b0f/artifacts
+end_time: 1726507262518
+entry_point_name: ''
+experiment_id: '219954780917631341'
+lifecycle_stage: active
+run_id: ccd5356eb6124b628d447a7c1c6c2b0f
+run_name: learned-eel-347
+run_uuid: ccd5356eb6124b628d447a7c1c6c2b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726507244357
+status: 3
+tags: []
+user_id: Admin

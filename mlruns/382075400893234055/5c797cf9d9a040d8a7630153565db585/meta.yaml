@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/PycharmProjects/mlflow/mlops_comp/mlruns/382075400893234055/5c797cf9d9a040d8a7630153565db585/artifacts
+end_time: 1726507194763
+entry_point_name: ''
+experiment_id: '382075400893234055'
+lifecycle_stage: active
+run_id: 5c797cf9d9a040d8a7630153565db585
+run_name: monumental-stag-721
+run_uuid: 5c797cf9d9a040d8a7630153565db585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726507145611
+status: 3
+tags: []
+user_id: Admin

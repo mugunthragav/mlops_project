@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/PycharmProjects/mlflow/mlops_comp/mlops_exp/219954780917631341/ad1cbdbe6c7d40eb9a7c15c3c8cdae8b/artifacts
+end_time: 1726512758919
+entry_point_name: ''
+experiment_id: '219954780917631341'
+lifecycle_stage: active
+run_id: ad1cbdbe6c7d40eb9a7c15c3c8cdae8b
+run_name: worried-stoat-94
+run_uuid: ad1cbdbe6c7d40eb9a7c15c3c8cdae8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726512731052
+status: 3
+tags: []
+user_id: Admin

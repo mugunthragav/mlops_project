@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726513565607
+current_stage: Production
+description: null
+last_updated_timestamp: 1726513565641
+name: ElasticNet_Wine_Model
+run_id: 0af9103d84e0430f97c55ea8f9b6c1ad
+run_link: null
+source: mlruns/219954780917631341/0af9103d84e0430f97c55ea8f9b6c1ad/artifacts/ElasticNet_Wine_Model
+status: READY
+status_message: null
+storage_location: mlruns/219954780917631341/0af9103d84e0430f97c55ea8f9b6c1ad/artifacts/ElasticNet_Wine_Model
+user_id: null
+version: 1
